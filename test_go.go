@@ -1,5 +1,9 @@
 package main
-import ('fmt')
+
+import (
+	"fmt"
+)
+
 func main() {
-    fmt.Println("Hello World! This is my first Go program\n")
+	fmt.Println("Hello World! This is my first Go program\n")
 }
